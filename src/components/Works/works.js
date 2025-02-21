@@ -19,7 +19,7 @@ const Works = () => {
           <p>We were tasked with making a game in Java 4 weeks into the bootcamp with just 1 week to work on it alongside ongoing studies.</p>
         </div>
         <div className='work'>
-          <a href='/blackjack/index.html'>
+          <a href='./blackjack/index.html' target='_blank' rel='noreferrer'>
           <img src={Project2} alt="" className="worksImg" />
           </a>
           <h3>Blackjack</h3>
