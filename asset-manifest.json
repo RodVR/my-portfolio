@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.f54506ec.css",
+    "main.js": "/my-portfolio/static/js/main.15656e76.js",
+    "static/media/book.png": "/my-portfolio/static/media/book.f3e2c4a360c66ba285c4.png",
+    "static/media/blackjack.png": "/my-portfolio/static/media/blackjack.0fdf799ff4082c679c7e.png",
+    "static/media/react.png": "/my-portfolio/static/media/react.fb59dfc6bb1bac6b0ad0.png",
+    "static/media/sql.png": "/my-portfolio/static/media/sql.167c88550478e6f0f85c.png",
+    "static/media/image.png": "/my-portfolio/static/media/image.2040412cda4b23e6469c.png",
+    "static/media/github.png": "/my-portfolio/static/media/github.00c601f1724a126c1cbd.png",
+    "static/media/favicon.ico": "/my-portfolio/static/media/favicon.3a4a5151ad8f7bb42eff.ico",
+    "static/media/CV_Rodolfo_Reis.pdf": "/my-portfolio/static/media/CV_Rodolfo_Reis.ae431f77c7cca6f309d0.pdf",
+    "static/media/boolpong.png": "/my-portfolio/static/media/boolpong.b619d91a838a68b788a6.png",
+    "static/media/git.png": "/my-portfolio/static/media/git.2a5fec306dd6229e2ff6.png",
+    "static/media/css.png": "/my-portfolio/static/media/css.19c8605d6b2861f5fbe0.png",
+    "static/media/linkedin.png": "/my-portfolio/static/media/linkedin.a7ba96474db96a84f358.png",
+    "static/media/js.png": "/my-portfolio/static/media/js.3ac55da45e198d8115b5.png",
+    "static/media/html.png": "/my-portfolio/static/media/html.b39a12ac47cb0bc32b3f.png",
+    "static/media/menu.png": "/my-portfolio/static/media/menu.b1d7ec802aae83f7dcb9.png",
+    "static/media/btnImg.png": "/my-portfolio/static/media/btnImg.e8b8dc2a79be365774c8.png",
+    "static/media/rest.png": "/my-portfolio/static/media/rest.84c5fa3cbde6fbd95f6b.png",
+    "static/media/contact.png": "/my-portfolio/static/media/contact.ab8e365154984e9240d5.png",
+    "static/media/spring.png": "/my-portfolio/static/media/spring.a146290b1a5c2960aaba.png",
+    "static/media/linksaver.png": "/my-portfolio/static/media/linksaver.0c683934ba23e0b69b30.png",
+    "static/media/java.png": "/my-portfolio/static/media/java.f5dd86c3ef6ef3f85acf.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.f54506ec.css.map": "/my-portfolio/static/css/main.f54506ec.css.map",
+    "main.15656e76.js.map": "/my-portfolio/static/js/main.15656e76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f54506ec.css",
+    "static/js/main.15656e76.js"
+  ]
+}
