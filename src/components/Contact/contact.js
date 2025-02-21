@@ -30,8 +30,8 @@ const Contact = () => {
     }
 
     emailjs
-      .sendForm('service_uowhugg', 'template_tt8p1m9', form.current, {
-        publicKey: '2Uxjkax5BsFxJcJAD',
+      .sendForm('', '', form.current, {
+        publicKey: '',
       })
       .then(
         () => {
