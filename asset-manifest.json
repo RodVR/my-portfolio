@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.fa425552.css",
-    "main.js": "/my-portfolio/static/js/main.8a30f78d.js",
+    "main.css": "/my-portfolio/static/css/main.11e86d0a.css",
+    "main.js": "/my-portfolio/static/js/main.05c11c6d.js",
     "static/media/book.png": "/my-portfolio/static/media/book.f3e2c4a360c66ba285c4.png",
     "static/media/blackjack.png": "/my-portfolio/static/media/blackjack.0fdf799ff4082c679c7e.png",
     "static/media/react.png": "/my-portfolio/static/media/react.fb59dfc6bb1bac6b0ad0.png",
@@ -11,6 +11,7 @@
     "static/media/favicon.ico": "/my-portfolio/static/media/favicon.3a4a5151ad8f7bb42eff.ico",
     "static/media/CV_Rodolfo_Reis.pdf": "/my-portfolio/static/media/CV_Rodolfo_Reis.ae431f77c7cca6f309d0.pdf",
     "static/media/boolpong.png": "/my-portfolio/static/media/boolpong.b619d91a838a68b788a6.png",
+    "static/media/angular.png": "/my-portfolio/static/media/angular.b2ed739859735bd306b2.png",
     "static/media/git.png": "/my-portfolio/static/media/git.2a5fec306dd6229e2ff6.png",
     "static/media/css.png": "/my-portfolio/static/media/css.19c8605d6b2861f5fbe0.png",
     "static/media/linkedin.png": "/my-portfolio/static/media/linkedin.a7ba96474db96a84f358.png",
@@ -24,11 +25,11 @@
     "static/media/linksaver.png": "/my-portfolio/static/media/linksaver.0c683934ba23e0b69b30.png",
     "static/media/java.png": "/my-portfolio/static/media/java.f5dd86c3ef6ef3f85acf.png",
     "index.html": "/my-portfolio/index.html",
-    "main.fa425552.css.map": "/my-portfolio/static/css/main.fa425552.css.map",
-    "main.8a30f78d.js.map": "/my-portfolio/static/js/main.8a30f78d.js.map"
+    "main.11e86d0a.css.map": "/my-portfolio/static/css/main.11e86d0a.css.map",
+    "main.05c11c6d.js.map": "/my-portfolio/static/js/main.05c11c6d.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa425552.css",
-    "static/js/main.8a30f78d.js"
+    "static/css/main.11e86d0a.css",
+    "static/js/main.05c11c6d.js"
   ]
 }

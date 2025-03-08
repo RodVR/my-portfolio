@@ -5,7 +5,6 @@ let player = {
 
 let sum = 0 
 let dealerSum = 0 
-let hasBlackJack = false 
 let isAlive = false 
 let message = "" 
 
@@ -49,7 +48,6 @@ startBtn.onclick = async function () {
     standBtn.disabled = false // Enable the stand button
 
     isAlive = true 
-    hasBlackJack = false 
     sum = 0 
     dealerSum = 0 
 
@@ -103,8 +101,8 @@ startBtn.onclick = async function () {
             message = "Do you want to draw a new card?" 
         } else if (sum === 21) {
             message = "You've got Blackjack!" 
-            hasBlackJack = true 
             newCardBtn.disabled = true 
+            standBtn.disabled = false
         } else {
             message = "You're out of the game!" 
             isAlive = false 
@@ -156,7 +154,7 @@ standBtn.onclick = async () => {
     newCardBtn.disabled = true 
     standBtn.disabled = true 
 
-    if (isAlive === true && hasBlackJack === false) {
+    if (isAlive === true) {
         while (dealerSum < 17) {
             const dealerCardUrl = `https://www.deckofcardsapi.com/api/deck/${deckId}/draw/?count=1`
             const response = await fetch(dealerCardUrl) 
