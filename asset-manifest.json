@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.11e86d0a.css",
-    "main.js": "/my-portfolio/static/js/main.8fc513c1.js",
+    "main.js": "/my-portfolio/static/js/main.8e198f13.js",
+    "static/media/mediareviewer.png": "/my-portfolio/static/media/mediareviewer.eac219aeeffbf72f7142.png",
     "static/media/book.png": "/my-portfolio/static/media/book.f3e2c4a360c66ba285c4.png",
     "static/media/blackjack.png": "/my-portfolio/static/media/blackjack.0fdf799ff4082c679c7e.png",
     "static/media/react.png": "/my-portfolio/static/media/react.fb59dfc6bb1bac6b0ad0.png",
     "static/media/sql.png": "/my-portfolio/static/media/sql.167c88550478e6f0f85c.png",
     "static/media/image.png": "/my-portfolio/static/media/image.2040412cda4b23e6469c.png",
     "static/media/github.png": "/my-portfolio/static/media/github.00c601f1724a126c1cbd.png",
+    "static/media/python.png": "/my-portfolio/static/media/python.d7a21d969a68b01c2b64.png",
     "static/media/favicon.ico": "/my-portfolio/static/media/favicon.3a4a5151ad8f7bb42eff.ico",
-    "static/media/CV_Rodolfo_Reis.pdf": "/my-portfolio/static/media/CV_Rodolfo_Reis.e80e8914f4ef5c22ad10.pdf",
+    "static/media/CV_Rodolfo_Reis.pdf": "/my-portfolio/static/media/CV_Rodolfo_Reis.359741879a5540cee3fd.pdf",
     "static/media/boolpong.png": "/my-portfolio/static/media/boolpong.b619d91a838a68b788a6.png",
     "static/media/angular.png": "/my-portfolio/static/media/angular.b2ed739859735bd306b2.png",
     "static/media/git.png": "/my-portfolio/static/media/git.2a5fec306dd6229e2ff6.png",
@@ -26,10 +28,10 @@
     "static/media/java.png": "/my-portfolio/static/media/java.f5dd86c3ef6ef3f85acf.png",
     "index.html": "/my-portfolio/index.html",
     "main.11e86d0a.css.map": "/my-portfolio/static/css/main.11e86d0a.css.map",
-    "main.8fc513c1.js.map": "/my-portfolio/static/js/main.8fc513c1.js.map"
+    "main.8e198f13.js.map": "/my-portfolio/static/js/main.8e198f13.js.map"
   },
   "entrypoints": [
     "static/css/main.11e86d0a.css",
-    "static/js/main.8fc513c1.js"
+    "static/js/main.8e198f13.js"
   ]
 }
